@@ -1,1 +1,0 @@
-# Galde.us
