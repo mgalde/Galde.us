@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Galde"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "https://galde.us/assets/images/bio-photo.jpg"
   bio              : "I am just the guy putting this thing together."
   location         : "Omaha Nebraska USA"
   email            : "mike@galde.us"
