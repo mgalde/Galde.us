@@ -89,7 +89,7 @@ author:
   bio              : "I am just the guy putting this thing together."
   location         : "Omaha Nebraska USA"
   email            : "mike@galde.us"
-  uri              : "http://galde.us"
+  uri              : "https://www.galde.us"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
